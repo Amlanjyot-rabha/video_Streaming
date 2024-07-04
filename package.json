@@ -1,0 +1,15 @@
+{
+  "name": "videostreaming",
+  "version": "1.0.0",
+  "description": "its s video streaming website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "database"
+  ],
+  "author": "Amlanjyoti rabha",
+  "license": "ISC"
+}
